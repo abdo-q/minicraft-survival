@@ -19,9 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----------------------------------------------------------------------------
-SCOPE: This license covers only the original game code written by the
-repository author. It does NOT cover third-party libraries (see
-THIRD_PARTY_NOTICES.md) or Minecraft-related textures, sounds, fonts and
-images, which belong to their respective owners (see ASSETS_NOTICE.md).
